@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
+import panads as pd
 
 from backend import PasswordManagerBE
 
